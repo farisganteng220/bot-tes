@@ -1,0 +1,34 @@
+{
+    "packName": "PENA BOT",
+    "reason": "Sedang Sibuk",
+    "authName": "Create By  @arifirazzaq2001",
+    "handler": "./index.js",
+    "session": "./handler/session/session.json",
+    "numberNon": "6281261324817",
+    "botNumberNon": "6289643117493",
+    "ownerNumber": [
+        "6281261324817@s.whatsapp.net",
+        "62895622955527@s.whatsapp.net"
+    ],
+   "ownerTunggal": "6281261324817@s.whatsapp.net",
+   "style" : {
+   "satu":"•",
+   "dua":"⎙"
+   },
+   "this": {
+   "ponsel": "ponsel",
+   "compossing": "```",
+   "shp": "⬡",
+   "bulat": "⭕", 
+   "silang": "❌", 
+   "panah": "👈",
+   "undefined": "-",
+   "version": {
+   "bot": "v 19. 3. 6",
+   "baileys" : "v 3.5.2"
+   }
+     },
+   "ownernama": "Arifi Razzaq",
+   "revokedd": "6287822277146-1629287518@g.us",
+   "codeinvit": "EiznDZqIWu40QPVO0Q9MVn"
+     }
